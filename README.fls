@@ -1,8 +1,8 @@
-PWD /Users/sariya/Documents/econ280project
+PWD /Users/sariya/Documents/documents_local/econ280project
 INPUT /usr/local/texlive/2025/texmf.cnf
 INPUT /usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/sariya/Documents/econ280project/README.tex
+INPUT /Users/sariya/Documents/documents_local/econ280project/README.tex
 OUTPUT README.log
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/url/url.sty
